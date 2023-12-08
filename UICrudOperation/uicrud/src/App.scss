@@ -1,0 +1,14 @@
+#root {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.App {
+  height: 100%;
+  background: #0ca0db;
+
+  &__main-page-content {
+    height: calc(100% - 80px);
+  }
+}
